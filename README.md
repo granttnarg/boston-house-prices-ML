@@ -8,6 +8,9 @@ This project implements a machine learning pipeline to predict Boston housing pr
 
 The Boston Housing dataset contains information about various features affecting house prices in Boston suburbs, including crime rates, property characteristics, and neighborhood demographics.
 
+This is the _[ Boston House Prices Dataset](https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data)_ on Kaggle, you can download it seperately to use this Notebook.
+Naming the file in the main directory "./data/boston.csv"
+
 ## Project Structure
 
 ### Analysis Pipeline
